@@ -1,2 +1,8 @@
+[web_servers]
 192.168.100.4
+
+[db_servers]
+192.168.100.6
+
+[file_servers]
 192.168.100.6
